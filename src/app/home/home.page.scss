@@ -2,3 +2,23 @@ ion-content {
      --background: url('../../assets/meditacao.jpg')
      no-repeat center center / cover;
 }
+
+.titulo {
+     text-align: center;
+     font-weight: bold;
+     font-size: 17px;
+     color: #d5c3ac;
+}
+.text-direito{
+     text-align:right;
+}
+
+.bg{
+     background-color: rgba(60, 64, 64, 0.70);
+}
+.cor-texto{
+     color:white;
+}
+.pos{
+     margin-top: 40%;
+}
